@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%);
+}
+
+.container button {
+    padding: 4px 10px;
+}
+
+.container p {
+    padding: 10px;
+    font-size: 20px;
+    margin: 0;
+}

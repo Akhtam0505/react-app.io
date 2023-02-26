@@ -1,0 +1,10 @@
+li {
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
+}
+
+button {
+    border-radius: 8px;
+    cursor: pointer;
+}
